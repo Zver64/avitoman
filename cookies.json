@@ -1,0 +1,60 @@
+[
+  {
+    "name": "ft",
+    "value": "\"ZjXr2LYhykS86s8wHI3fZSmN184SkW3GbXJReM+1LZyl8qie8NhlwzkarAr9F+lMHPSDIFWfg8my9e7WhbmLbNEZiKeKk34Ddn+PXkwkQKLgq8kyxxLuA1qVB9tsfxdXllR4qNiDldvgBxXCRbbASxbjz501Ao/GUgwF9TzoC4sNeK1u7FJAI6UYQqE/oDTg\"",
+    "domain": ".avito.ru",
+    "path": "/",
+    "expires": 1715370658,
+    "size": 196,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "f",
+    "value": "5.4d6587121516f11b36b4dd61b04726f147e1eada7172e06c47e1eada7172e06c47e1eada7172e06c47e1eada7172e06cb59320d6eb6303c1b59320d6eb6303c1b59320d6eb6303c147e1eada7172e06c8a38e2c5b3e08b898a38e2c5b3e08b890df103df0c26013a7b0d53c7afc06d0b2ebf3cb6fd35a0ac0df103df0c26013a8b1472fe2f9ba6b99364cc9ca0115366f03bdfa0d1f878520f7bd04ea141548c78ba5f931b08c66aff38e8d292af81e50df103df0c26013a2ebf3cb6fd35a0ac71e7cb57bbcb8e0ff0c77052689da50ddc5322845a0cba1aba0ac8037e2b74f92da10fb74cac1eab2da10fb74cac1eab2da10fb74cac1eabdc5322845a0cba1a0df103df0c26013a037e1fbb3ea05095de87ad3b397f946b4c41e97fe93686ad332b40dfe8f6d1d071e7dfc4667ffd8302c730c0109b9fbb52bf32384163ca3a2178ff9e1e6cb0f40e28148569569b7958ccc0414198f7dd14163aa39310620e2ebf3cb6fd35a0ac0df103df0c26013a28a353c4323c7a3aefcfb0a8b1110195ec12df04c68ad2bf3de19da9ed218fe23de19da9ed218fe2ddb881eef125a8703b2a42e40573ac3cbc20fe175b332be7c6546f8c1505c8f7",
+    "domain": ".avito.ru",
+    "path": "/",
+    "expires": 1715370658,
+    "size": 883,
+    "httpOnly": false,
+    "secure": false,
+    "session": false,
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "v",
+    "value": "1715284256",
+    "domain": ".avito.ru",
+    "path": "/",
+    "expires": 1715286058.510316,
+    "size": 11,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "Lax",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  },
+  {
+    "name": "u",
+    "value": "32hkyqls.1dm3o2x.bze41g2erc00",
+    "domain": ".avito.ru",
+    "path": "/",
+    "expires": 1749844256.257965,
+    "size": 30,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "Lax",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  }
+]
