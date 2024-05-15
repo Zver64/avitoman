@@ -5,7 +5,7 @@
   "main": "build/index.js",
   "scripts": {
     "start": "tsc --watch",
-    "run": "nodemon build/index.js"
+    "watch": "nodemon build/index.js"
   },
   "keywords": [],
   "author": "",

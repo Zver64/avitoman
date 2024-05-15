@@ -37,3 +37,9 @@ export async function checkForBlock(page: Page) {
   }
   return false
 }
+
+export function sleep(time: number) {
+  return new Promise((resolve) => {
+    setTimeout(resolve, time)
+  })
+}
